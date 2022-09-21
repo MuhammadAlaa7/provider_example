@@ -16,8 +16,8 @@ class Dashboard extends StatelessWidget {
         child: Container(
 
           margin: const EdgeInsets.all(10),
-          width: 400,
-          height: 400,
+          width: 410,
+          height: 410,
 
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
